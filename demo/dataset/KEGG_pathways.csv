@@ -1,0 +1,458 @@
+,AClass,BClass,ID,Name
+map00515,Metabolism,Glycan biosynthesis and metabolism,map00515,Mannose type O-glycan biosynthesis
+map05130,Human Diseases,Infectious disease: bacterial,map05130,Pathogenic Escherichia coli infection
+map04621,Organismal Systems,Immune system,map04621,NOD-like receptor signaling pathway
+map00254,Metabolism,Biosynthesis of other secondary metabolites,map00254,Aflatoxin biosynthesis
+map04923,Organismal Systems,Endocrine system,map04923,Regulation of lipolysis in adipocytes
+map00563,Metabolism,Glycan biosynthesis and metabolism,map00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+map00904,Metabolism,Metabolism of terpenoids and polyketides,map00904,Diterpenoid biosynthesis
+map04927,Organismal Systems,Endocrine system,map04927,Cortisol synthesis and secretion
+map00190,Metabolism,Energy metabolism,map00190,Oxidative phosphorylation
+map05231,Human Diseases,Cancer: overview,map05231,Choline metabolism in cancer
+map00572,Metabolism,Glycan biosynthesis and metabolism,map00572,Arabinogalactan biosynthesis - Mycobacterium
+map03020,Genetic Information Processing,Transcription,map03020,RNA polymerase
+map02060,Environmental Information Processing,Membrane transport,map02060,Phosphotransferase system (PTS)
+map04612,Organismal Systems,Immune system,map04612,Antigen processing and presentation
+map05410,Human Diseases,Cardiovascular disease,map05410,Hypertrophic cardiomyopathy
+map00521,Metabolism,Biosynthesis of other secondary metabolites,map00521,Streptomycin biosynthesis
+map05016,Human Diseases,Neurodegenerative disease,map05016,Huntington disease
+map04623,Organismal Systems,Immune system,map04623,Cytosolic DNA-sensing pathway
+map01056,Metabolism,Metabolism of terpenoids and polyketides,map01056,Biosynthesis of type II polyketide backbone
+map00532,Metabolism,Glycan biosynthesis and metabolism,map00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+map00333,Metabolism,Biosynthesis of other secondary metabolites,map00333,Prodigiosin biosynthesis
+map04380,Organismal Systems,Development and regeneration,map04380,Osteoclast differentiation
+map00020,Metabolism,Carbohydrate metabolism,map00020,Citrate cycle (TCA cycle)
+map00550,Metabolism,Glycan biosynthesis and metabolism,map00550,Peptidoglycan biosynthesis
+map04213,Organismal Systems,Aging,map04213,Longevity regulating pathway - multiple species
+map02025,Cellular Processes,Cellular community - prokaryotes,map02025,Biofilm formation - Pseudomonas aeruginosa
+map04925,Organismal Systems,Endocrine system,map04925,Aldosterone synthesis and secretion
+map04970,Organismal Systems,Digestive system,map04970,Salivary secretion
+map04975,Organismal Systems,Digestive system,map04975,Fat digestion and absorption
+map04217,Cellular Processes,Cell growth and death,map04217,Necroptosis
+map04917,Organismal Systems,Endocrine system,map04917,Prolactin signaling pathway
+map00051,Metabolism,Carbohydrate metabolism,map00051,Fructose and mannose metabolism
+map04540,Cellular Processes,Cellular community - eukaryotes,map04540,Gap junction
+map00534,Metabolism,Glycan biosynthesis and metabolism,map00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+map01212,Metabolism,Global and overview maps,map01212,Fatty acid metabolism
+map04360,Organismal Systems,Development and regeneration,map04360,Axon guidance
+map04146,Cellular Processes,Transport and catabolism,map04146,Peroxisome
+map00541,Metabolism,Glycan biosynthesis and metabolism,map00541,O-Antigen nucleotide sugar biosynthesis
+map04911,Organismal Systems,Endocrine system,map04911,Insulin secretion
+map04510,Cellular Processes,Cellular community - eukaryotes,map04510,Focal adhesion
+map00290,Metabolism,Amino acid metabolism,map00290,"Valine, leucine and isoleucine biosynthesis"
+map05140,Human Diseases,Infectious disease: parasitic,map05140,Leishmaniasis
+map05110,Human Diseases,Infectious disease: bacterial,map05110,Vibrio cholerae infection
+map05235,Human Diseases,Cancer: overview,map05235,PD-L1 expression and PD-1 checkpoint pathway in cancer
+map00402,Metabolism,Biosynthesis of other secondary metabolites,map00402,Benzoxazinoid biosynthesis
+map05205,Human Diseases,Cancer: overview,map05205,Proteoglycans in cancer
+map04014,Environmental Information Processing,Signal transduction,map04014,Ras signaling pathway
+map00627,Metabolism,Xenobiotics biodegradation and metabolism,map00627,Aminobenzoate degradation
+map00982,Metabolism,Xenobiotics biodegradation and metabolism,map00982,Drug metabolism - cytochrome P450
+map00633,Metabolism,Xenobiotics biodegradation and metabolism,map00633,Nitrotoluene degradation
+map04650,Organismal Systems,Immune system,map04650,Natural killer cell mediated cytotoxicity
+map03070,Environmental Information Processing,Membrane transport,map03070,Bacterial secretion system
+map04062,Organismal Systems,Immune system,map04062,Chemokine signaling pathway
+map00500,Metabolism,Carbohydrate metabolism,map00500,Starch and sucrose metabolism
+map04626,Organismal Systems,Environmental adaptation,map04626,Plant-pathogen interaction
+map00630,Metabolism,Carbohydrate metabolism,map00630,Glyoxylate and dicarboxylate metabolism
+map04961,Organismal Systems,Excretory system,map04961,Endocrine and other factor-regulated calcium reabsorption
+map00908,Metabolism,Metabolism of terpenoids and polyketides,map00908,Zeatin biosynthesis
+map02020,Environmental Information Processing,Signal transduction,map02020,Two-component system
+map00604,Metabolism,Glycan biosynthesis and metabolism,map00604,Glycosphingolipid biosynthesis - ganglio series
+map00999,Metabolism,Biosynthesis of other secondary metabolites,map00999,Biosynthesis of various secondary metabolites - part 1
+map04340,Environmental Information Processing,Signal transduction,map04340,Hedgehog signaling pathway
+map01057,Metabolism,Metabolism of terpenoids and polyketides,map01057,Biosynthesis of type II polyketide products
+map01502,Human Diseases,Drug resistance: antimicrobial,map01502,Vancomycin resistance
+map01524,Human Diseases,Drug resistance: antineoplastic,map01524,Platinum drug resistance
+map05014,Human Diseases,Neurodegenerative disease,map05014,Amyotrophic lateral sclerosis
+map05131,Human Diseases,Infectious disease: bacterial,map05131,Shigellosis
+map04016,Environmental Information Processing,Signal transduction,map04016,MAPK signaling pathway - plant
+map00710,Metabolism,Energy metabolism,map00710,Carbon fixation in photosynthetic organisms
+map00130,Metabolism,Metabolism of cofactors and vitamins,map00130,Ubiquinone and other terpenoid-quinone biosynthesis
+map04725,Organismal Systems,Nervous system,map04725,Cholinergic synapse
+map04660,Organismal Systems,Immune system,map04660,T cell receptor signaling pathway
+map05412,Human Diseases,Cardiovascular disease,map05412,Arrhythmogenic right ventricular cardiomyopathy
+map05142,Human Diseases,Infectious disease: parasitic,map05142,Chagas disease
+map00311,Metabolism,Biosynthesis of other secondary metabolites,map00311,Penicillin and cephalosporin biosynthesis
+map00860,Metabolism,Metabolism of cofactors and vitamins,map00860,Porphyrin and chlorophyll metabolism
+map04664,Organismal Systems,Immune system,map04664,Fc epsilon RI signaling pathway
+map05134,Human Diseases,Infectious disease: bacterial,map05134,Legionellosis
+map04075,Environmental Information Processing,Signal transduction,map04075,Plant hormone signal transduction
+map05144,Human Diseases,Infectious disease: parasitic,map05144,Malaria
+map02026,Cellular Processes,Cellular community - prokaryotes,map02026,Biofilm formation - Escherichia coli
+map04810,Cellular Processes,Cell motility,map04810,Regulation of actin cytoskeleton
+map04015,Environmental Information Processing,Signal transduction,map04015,Rap1 signaling pathway
+map05034,Human Diseases,Substance dependence,map05034,Alcoholism
+map04260,Organismal Systems,Circulatory system,map04260,Cardiac muscle contraction
+map00473,Metabolism,Metabolism of other amino acids,map00473,D-Alanine metabolism
+map03013,Genetic Information Processing,Translation,map03013,RNA transport
+map00942,Metabolism,Biosynthesis of other secondary metabolites,map00942,Anthocyanin biosynthesis
+map00480,Metabolism,Metabolism of other amino acids,map00480,Glutathione metabolism
+map00650,Metabolism,Carbohydrate metabolism,map00650,Butanoate metabolism
+map00624,Metabolism,Xenobiotics biodegradation and metabolism,map00624,Polycyclic aromatic hydrocarbon degradation
+map00010,Metabolism,Carbohydrate metabolism,map00010,Glycolysis / Gluconeogenesis
+map00601,Metabolism,Glycan biosynthesis and metabolism,map00601,Glycosphingolipid biosynthesis - lacto and neolacto series
+map04114,Cellular Processes,Cell growth and death,map04114,Oocyte meiosis
+map04138,Cellular Processes,Transport and catabolism,map04138,Autophagy - yeast
+map00531,Metabolism,Glycan biosynthesis and metabolism,map00531,Glycosaminoglycan degradation
+map05320,Human Diseases,Immune disease,map05320,Autoimmune thyroid disease
+map01052,Metabolism,Metabolism of terpenoids and polyketides,map01052,Type I polyketide structures
+map04960,Organismal Systems,Excretory system,map04960,Aldosterone-regulated sodium reabsorption
+map01053,Metabolism,Metabolism of terpenoids and polyketides,map01053,Biosynthesis of siderophore group nonribosomal peptides
+map05204,Human Diseases,Cancer: overview,map05204,Chemical carcinogenesis
+map00980,Metabolism,Xenobiotics biodegradation and metabolism,map00980,Metabolism of xenobiotics by cytochrome P450
+map00830,Metabolism,Metabolism of cofactors and vitamins,map00830,Retinol metabolism
+map04710,Organismal Systems,Environmental adaptation,map04710,Circadian rhythm
+map01501,Human Diseases,Drug resistance: antimicrobial,map01501,beta-Lactam resistance
+map04080,Environmental Information Processing,Signaling molecules and interaction,map04080,Neuroactive ligand-receptor interaction
+map00905,Metabolism,Metabolism of terpenoids and polyketides,map00905,Brassinosteroid biosynthesis
+map04122,Genetic Information Processing,"Folding, sorting and degradation",map04122,Sulfur relay system
+map05169,Human Diseases,Infectious disease: viral,map05169,Epstein-Barr virus infection
+map04630,Environmental Information Processing,Signal transduction,map04630,JAK-STAT signaling pathway
+map00121,Metabolism,Lipid metabolism,map00121,Secondary bile acid biosynthesis
+map04113,Cellular Processes,Cell growth and death,map04113,Meiosis - yeast
+map00592,Metabolism,Lipid metabolism,map00592,alpha-Linolenic acid metabolism
+map05321,Human Diseases,Immune disease,map05321,Inflammatory bowel disease
+map05220,Human Diseases,Cancer: specific types,map05220,Chronic myeloid leukemia
+map00750,Metabolism,Metabolism of cofactors and vitamins,map00750,Vitamin B6 metabolism
+map04214,Cellular Processes,Cell growth and death,map04214,Apoptosis - fly
+map04977,Organismal Systems,Digestive system,map04977,Vitamin digestion and absorption
+map05217,Human Diseases,Cancer: specific types,map05217,Basal cell carcinoma
+map01055,Metabolism,Metabolism of terpenoids and polyketides,map01055,Biosynthesis of vancomycin group antibiotics
+map00404,Metabolism,Biosynthesis of other secondary metabolites,map00404,Staurosporine biosynthesis
+map03450,Genetic Information Processing,Replication and repair,map03450,Non-homologous end-joining
+map04371,Environmental Information Processing,Signal transduction,map04371,Apelin signaling pathway
+map00280,Metabolism,Amino acid metabolism,map00280,"Valine, leucine and isoleucine degradation"
+map05166,Human Diseases,Infectious disease: viral,map05166,Human T-cell leukemia virus 1 infection
+map00514,Metabolism,Glycan biosynthesis and metabolism,map00514,Other types of O-glycan biosynthesis
+map05171,Human Diseases,Infectious disease: viral,map05171,Coronavirus disease - COVID-19
+map04215,Cellular Processes,Cell growth and death,map04215,Apoptosis - multiple species
+map05162,Human Diseases,Infectious disease: viral,map05162,Measles
+map04152,Environmental Information Processing,Signal transduction,map04152,AMPK signaling pathway
+map00625,Metabolism,Xenobiotics biodegradation and metabolism,map00625,Chloroalkane and chloroalkene degradation
+map00260,Metabolism,Amino acid metabolism,map00260,"Glycine, serine and threonine metabolism"
+map03030,Genetic Information Processing,Replication and repair,map03030,DNA replication
+map04964,Organismal Systems,Excretory system,map04964,Proximal tubule bicarbonate reclamation
+map00120,Metabolism,Lipid metabolism,map00120,Primary bile acid biosynthesis
+map00350,Metabolism,Amino acid metabolism,map00350,Tyrosine metabolism
+map04919,Organismal Systems,Endocrine system,map04919,Thyroid hormone signaling pathway
+map01523,Human Diseases,Drug resistance: antineoplastic,map01523,Antifolate resistance
+map04976,Organismal Systems,Digestive system,map04976,Bile secretion
+map04974,Organismal Systems,Digestive system,map04974,Protein digestion and absorption
+map04115,Cellular Processes,Cell growth and death,map04115,p53 signaling pathway
+map04926,Organismal Systems,Endocrine system,map04926,Relaxin signaling pathway
+map01521,Human Diseases,Drug resistance: antineoplastic,map01521,EGFR tyrosine kinase inhibitor resistance
+map01200,Metabolism,Global and overview maps,map01200,Carbon metabolism
+map05031,Human Diseases,Substance dependence,map05031,Amphetamine addiction
+map00670,Metabolism,Metabolism of cofactors and vitamins,map00670,One carbon pool by folate
+map04928,Organismal Systems,Endocrine system,map04928,"Parathyroid hormone synthesis, secretion and action"
+map00940,Metabolism,Biosynthesis of other secondary metabolites,map00940,Phenylpropanoid biosynthesis
+map04962,Organismal Systems,Excretory system,map04962,Vasopressin-regulated water reabsorption
+map05230,Human Diseases,Cancer: overview,map05230,Central carbon metabolism in cancer
+map04550,Cellular Processes,Cellular community - eukaryotes,map04550,Signaling pathways regulating pluripotency of stem cells
+map04916,Organismal Systems,Endocrine system,map04916,Melanogenesis
+map04066,Environmental Information Processing,Signal transduction,map04066,HIF-1 signaling pathway
+map05214,Human Diseases,Cancer: specific types,map05214,Glioma
+map03015,Genetic Information Processing,Translation,map03015,mRNA surveillance pathway
+map05100,Human Diseases,Infectious disease: bacterial,map05100,Bacterial invasion of epithelial cells
+map04728,Organismal Systems,Nervous system,map04728,Dopaminergic synapse
+map05340,Human Diseases,Immune disease,map05340,Primary immunodeficiency
+map00565,Metabolism,Lipid metabolism,map00565,Ether lipid metabolism
+map04940,Human Diseases,Endocrine and metabolic disease,map04940,Type I diabetes mellitus
+map00998,Metabolism,Biosynthesis of other secondary metabolites,map00998,Biosynthesis of various secondary metabolites - part 2
+map04137,Cellular Processes,Transport and catabolism,map04137,Mitophagy - animal
+map05206,Human Diseases,Cancer: overview,map05206,MicroRNAs in cancer
+map00730,Metabolism,Metabolism of cofactors and vitamins,map00730,Thiamine metabolism
+map04915,Organismal Systems,Endocrine system,map04915,Estrogen signaling pathway
+map00230,Metabolism,Nucleotide metabolism,map00230,Purine metabolism
+map04712,Organismal Systems,Environmental adaptation,map04712,Circadian rhythm - plant
+map04670,Organismal Systems,Immune system,map04670,Leukocyte transendothelial migration
+map03010,Genetic Information Processing,Translation,map03010,Ribosome
+map04912,Organismal Systems,Endocrine system,map04912,GnRH signaling pathway
+map04920,Organismal Systems,Endocrine system,map04920,Adipocytokine signaling pathway
+map03420,Genetic Information Processing,Replication and repair,map03420,Nucleotide excision repair
+map04662,Organismal Systems,Immune system,map04662,B cell receptor signaling pathway
+map00401,Metabolism,Biosynthesis of other secondary metabolites,map00401,Novobiocin biosynthesis
+map00906,Metabolism,Metabolism of terpenoids and polyketides,map00906,Carotenoid biosynthesis
+map00620,Metabolism,Carbohydrate metabolism,map00620,Pyruvate metabolism
+map04361,Organismal Systems,Development and regeneration,map04361,Axon regeneration
+map04910,Organismal Systems,Endocrine system,map04910,Insulin signaling pathway
+map00571,Metabolism,Glycan biosynthesis and metabolism,map00571,Lipoarabinomannan (LAM) biosynthesis
+map00680,Metabolism,Energy metabolism,map00680,Methane metabolism
+map04218,Cellular Processes,Cell growth and death,map04218,Cellular senescence
+map03008,Genetic Information Processing,Translation,map03008,Ribosome biogenesis in eukaryotes
+map00310,Metabolism,Amino acid metabolism,map00310,Lysine degradation
+map05111,Cellular Processes,Cellular community - prokaryotes,map05111,Biofilm formation - Vibrio cholerae
+map04145,Cellular Processes,Transport and catabolism,map04145,Phagosome
+map05210,Human Diseases,Cancer: specific types,map05210,Colorectal cancer
+map01054,Metabolism,Metabolism of terpenoids and polyketides,map01054,Nonribosomal peptide structures
+map05010,Human Diseases,Neurodegenerative disease,map05010,Alzheimer disease
+map00944,Metabolism,Biosynthesis of other secondary metabolites,map00944,Flavone and flavonol biosynthesis
+map01240,Metabolism,Global and overview maps,map01240,Biosynthesis of cofactors
+map04211,Organismal Systems,Aging,map04211,Longevity regulating pathway
+map04972,Organismal Systems,Digestive system,map04972,Pancreatic secretion
+map00071,Metabolism,Lipid metabolism,map00071,Fatty acid degradation
+map05323,Human Diseases,Immune disease,map05323,Rheumatoid arthritis
+map05022,Human Diseases,Neurodegenerative disease,map05022,Pathways of neurodegeneration - multiple diseases
+map01058,Metabolism,Biosynthesis of other secondary metabolites,map01058,Acridone alkaloid biosynthesis
+map00943,Metabolism,Biosynthesis of other secondary metabolites,map00943,Isoflavonoid biosynthesis
+map00561,Metabolism,Lipid metabolism,map00561,Glycerolipid metabolism
+map04668,Environmental Information Processing,Signal transduction,map04668,TNF signaling pathway
+map04930,Human Diseases,Endocrine and metabolic disease,map04930,Type II diabetes mellitus
+map00361,Metabolism,Xenobiotics biodegradation and metabolism,map00361,Chlorocyclohexane and chlorobenzene degradation
+map00621,Metabolism,Xenobiotics biodegradation and metabolism,map00621,Dioxin degradation
+map00471,Metabolism,Metabolism of other amino acids,map00471,D-Glutamine and D-glutamate metabolism
+map00440,Metabolism,Metabolism of other amino acids,map00440,Phosphonate and phosphinate metabolism
+map05132,Human Diseases,Infectious disease: bacterial,map05132,Salmonella infection
+map05216,Human Diseases,Cancer: specific types,map05216,Thyroid cancer
+map00626,Metabolism,Xenobiotics biodegradation and metabolism,map00626,Naphthalene degradation
+map04625,Organismal Systems,Immune system,map04625,C-type lectin receptor signaling pathway
+map00524,Metabolism,Biosynthesis of other secondary metabolites,map00524,"Neomycin, kanamycin and gentamicin biosynthesis"
+map05164,Human Diseases,Infectious disease: viral,map05164,Influenza A
+map04212,Organismal Systems,Aging,map04212,Longevity regulating pathway - worm
+map04966,Organismal Systems,Excretory system,map04966,Collecting duct acid secretion
+map00533,Metabolism,Glycan biosynthesis and metabolism,map00533,Glycosaminoglycan biosynthesis - keratan sulfate
+map00902,Metabolism,Metabolism of terpenoids and polyketides,map00902,Monoterpenoid biosynthesis
+map04640,Organismal Systems,Immune system,map04640,Hematopoietic cell lineage
+map05330,Human Diseases,Immune disease,map05330,Allograft rejection
+map00591,Metabolism,Lipid metabolism,map00591,Linoleic acid metabolism
+map00622,Metabolism,Xenobiotics biodegradation and metabolism,map00622,Xylene degradation
+map04918,Organismal Systems,Endocrine system,map04918,Thyroid hormone synthesis
+map05170,Human Diseases,Infectious disease: viral,map05170,Human immunodeficiency virus 1 infection
+map04921,Organismal Systems,Endocrine system,map04921,Oxytocin signaling pathway
+map04935,Organismal Systems,Endocrine system,map04935,"Growth hormone synthesis, secretion and action"
+map00460,Metabolism,Metabolism of other amino acids,map00460,Cyanoamino acid metabolism
+map04064,Environmental Information Processing,Signal transduction,map04064,NF-kappa B signaling pathway
+map00970,Genetic Information Processing,Translation,map00970,Aminoacyl-tRNA biosynthesis
+map03430,Genetic Information Processing,Replication and repair,map03430,Mismatch repair
+map00930,Metabolism,Xenobiotics biodegradation and metabolism,map00930,Caprolactam degradation
+map00253,Metabolism,Metabolism of terpenoids and polyketides,map00253,Tetracycline biosynthesis
+map04012,Environmental Information Processing,Signal transduction,map04012,ErbB signaling pathway
+map04742,Organismal Systems,Sensory system,map04742,Taste transduction
+map05322,Human Diseases,Immune disease,map05322,Systemic lupus erythematosus
+map04657,Organismal Systems,Immune system,map04657,IL-17 signaling pathway
+map04151,Environmental Information Processing,Signal transduction,map04151,PI3K-Akt signaling pathway
+map04931,Human Diseases,Endocrine and metabolic disease,map04931,Insulin resistance
+map04914,Organismal Systems,Endocrine system,map04914,Progesterone-mediated oocyte maturation
+map05332,Human Diseases,Immune disease,map05332,Graft-versus-host disease
+map04350,Environmental Information Processing,Signal transduction,map04350,TGF-beta signaling pathway
+map04270,Organismal Systems,Circulatory system,map04270,Vascular smooth muscle contraction
+map00196,Metabolism,Energy metabolism,map00196,Photosynthesis - antenna proteins
+map04614,Organismal Systems,Endocrine system,map04614,Renin-angiotensin system
+map04068,Environmental Information Processing,Signal transduction,map04068,FoxO signaling pathway
+map04120,Genetic Information Processing,"Folding, sorting and degradation",map04120,Ubiquitin mediated proteolysis
+map04745,Organismal Systems,Sensory system,map04745,Phototransduction - fly
+map04130,Genetic Information Processing,"Folding, sorting and degradation",map04130,SNARE interactions in vesicular transport
+map03440,Genetic Information Processing,Replication and repair,map03440,Homologous recombination
+map00564,Metabolism,Lipid metabolism,map00564,Glycerophospholipid metabolism
+map04750,Organismal Systems,Sensory system,map04750,Inflammatory mediator regulation of TRP channels
+map05219,Human Diseases,Cancer: specific types,map05219,Bladder cancer
+map00909,Metabolism,Metabolism of terpenoids and polyketides,map00909,Sesquiterpenoid and triterpenoid biosynthesis
+map01210,Metabolism,Global and overview maps,map01210,2-Oxocarboxylic acid metabolism
+map01503,Human Diseases,Drug resistance: antimicrobial,map01503,Cationic antimicrobial peptide (CAMP) resistance
+map04216,Cellular Processes,Cell growth and death,map04216,Ferroptosis
+map04933,Human Diseases,Endocrine and metabolic disease,map04933,AGE-RAGE signaling pathway in diabetic complications
+map04979,Organismal Systems,Digestive system,map04979,Cholesterol metabolism
+map04971,Organismal Systems,Digestive system,map04971,Gastric acid secretion
+map04720,Organismal Systems,Nervous system,map04720,Long-term potentiation
+map00300,Metabolism,Amino acid metabolism,map00300,Lysine biosynthesis
+map00642,Metabolism,Xenobiotics biodegradation and metabolism,map00642,Ethylbenzene degradation
+map01220,Metabolism,Global and overview maps,map01220,Degradation of aromatic compounds
+map04740,Organismal Systems,Sensory system,map04740,Olfactory transduction
+map04713,Organismal Systems,Environmental adaptation,map04713,Circadian entrainment
+map00281,Metabolism,Metabolism of terpenoids and polyketides,map00281,Geraniol degradation
+map05160,Human Diseases,Infectious disease: viral,map05160,Hepatitis C
+map04310,Environmental Information Processing,Signal transduction,map04310,Wnt signaling pathway
+map00901,Metabolism,Biosynthesis of other secondary metabolites,map00901,Indole alkaloid biosynthesis
+map04672,Organismal Systems,Immune system,map04672,Intestinal immune network for IgA production
+map04210,Cellular Processes,Cell growth and death,map04210,Apoptosis
+map00061,Metabolism,Lipid metabolism,map00061,Fatty acid biosynthesis
+map00562,Metabolism,Carbohydrate metabolism,map00562,Inositol phosphate metabolism
+map00600,Metabolism,Lipid metabolism,map00600,Sphingolipid metabolism
+map00030,Metabolism,Carbohydrate metabolism,map00030,Pentose phosphate pathway
+map04722,Organismal Systems,Nervous system,map04722,Neurotrophin signaling pathway
+map00966,Metabolism,Biosynthesis of other secondary metabolites,map00966,Glucosinolate biosynthesis
+map00052,Metabolism,Carbohydrate metabolism,map00052,Galactose metabolism
+map00511,Metabolism,Glycan biosynthesis and metabolism,map00511,Other glycan degradation
+map00270,Metabolism,Amino acid metabolism,map00270,Cysteine and methionine metabolism
+map01059,Metabolism,Metabolism of terpenoids and polyketides,map01059,Biosynthesis of enediyne antibiotics
+map00522,Metabolism,Metabolism of terpenoids and polyketides,map00522,"Biosynthesis of 12-, 14- and 16-membered macrolides"
+map04070,Environmental Information Processing,Signal transduction,map04070,Phosphatidylinositol signaling system
+map00981,Metabolism,Metabolism of terpenoids and polyketides,map00981,Insect hormone biosynthesis
+map05212,Human Diseases,Cancer: specific types,map05212,Pancreatic cancer
+map04341,Environmental Information Processing,Signal transduction,map04341,Hedgehog signaling pathway - fly
+map00523,Metabolism,Metabolism of terpenoids and polyketides,map00523,Polyketide sugar unit biosynthesis
+map00960,Metabolism,Biosynthesis of other secondary metabolites,map00960,"Tropane, piperidine and pyridine alkaloid biosynthesis"
+map04370,Environmental Information Processing,Signal transduction,map04370,VEGF signaling pathway
+map00910,Metabolism,Energy metabolism,map00910,Nitrogen metabolism
+map00780,Metabolism,Metabolism of cofactors and vitamins,map00780,Biotin metabolism
+map00540,Metabolism,Glycan biosynthesis and metabolism,map00540,Lipopolysaccharide biosynthesis
+map05133,Human Diseases,Infectious disease: bacterial,map05133,Pertussis
+map05033,Human Diseases,Substance dependence,map05033,Nicotine addiction
+map05203,Human Diseases,Cancer: overview,map05203,Viral carcinogenesis
+map04261,Organismal Systems,Circulatory system,map04261,Adrenergic signaling in cardiomyocytes
+map00362,Metabolism,Xenobiotics biodegradation and metabolism,map00362,Benzoate degradation
+map05416,Human Diseases,Cardiovascular disease,map05416,Viral myocarditis
+map05030,Human Diseases,Substance dependence,map05030,Cocaine addiction
+map05032,Human Diseases,Substance dependence,map05032,Morphine addiction
+map04721,Organismal Systems,Nervous system,map04721,Synaptic vesicle cycle
+map04950,Human Diseases,Endocrine and metabolic disease,map04950,Maturity onset diabetes of the young
+map00410,Metabolism,Metabolism of other amino acids,map00410,beta-Alanine metabolism
+map04390,Environmental Information Processing,Signal transduction,map04390,Hippo signaling pathway
+map04072,Environmental Information Processing,Signal transduction,map04072,Phospholipase D signaling pathway
+map05215,Human Diseases,Cancer: specific types,map05215,Prostate cancer
+map04112,Cellular Processes,Cell growth and death,map04112,Cell cycle - Caulobacter
+map03018,Genetic Information Processing,"Folding, sorting and degradation",map03018,RNA degradation
+map04922,Organismal Systems,Endocrine system,map04922,Glucagon signaling pathway
+map00510,Metabolism,Glycan biosynthesis and metabolism,map00510,N-Glycan biosynthesis
+map05150,Human Diseases,Infectious disease: bacterial,map05150,Staphylococcus aureus infection
+map04061,Environmental Information Processing,Signaling molecules and interaction,map04061,Viral protein interaction with cytokine and cytokine receptor
+map05161,Human Diseases,Infectious disease: viral,map05161,Hepatitis B
+map03022,Genetic Information Processing,Transcription,map03022,Basal transcription factors
+map05168,Human Diseases,Infectious disease: viral,map05168,Herpes simplex virus 1 infection
+map04024,Environmental Information Processing,Signal transduction,map04024,cAMP signaling pathway
+map02024,Cellular Processes,Cellular community - prokaryotes,map02024,Quorum sensing
+map04392,Environmental Information Processing,Signal transduction,map04392,Hippo signaling pathway - multiple species
+map00100,Metabolism,Lipid metabolism,map00100,Steroid biosynthesis
+map00261,Metabolism,Biosynthesis of other secondary metabolites,map00261,Monobactam biosynthesis
+map04730,Organismal Systems,Nervous system,map04730,Long-term depression
+map05017,Human Diseases,Neurodegenerative disease,map05017,Spinocerebellar ataxia
+map00513,Metabolism,Glycan biosynthesis and metabolism,map00513,Various types of N-glycan biosynthesis
+map04723,Organismal Systems,Nervous system,map04723,Retrograde endocannabinoid signaling
+map04610,Organismal Systems,Immune system,map04610,Complement and coagulation cascades
+map00525,Metabolism,Biosynthesis of other secondary metabolites,map00525,Acarbose and validamycin biosynthesis
+map00331,Metabolism,Biosynthesis of other secondary metabolites,map00331,Clavulanic acid biosynthesis
+map00363,Metabolism,Xenobiotics biodegradation and metabolism,map00363,Bisphenol degradation
+map00997,Metabolism,Biosynthesis of other secondary metabolites,map00997,Biosynthesis of various secondary metabolites - part 3
+map04391,Environmental Information Processing,Signal transduction,map04391,Hippo signaling pathway - fly
+map00405,Metabolism,Biosynthesis of other secondary metabolites,map00405,Phenazine biosynthesis
+map02030,Cellular Processes,Cell motility,map02030,Bacterial chemotaxis
+map04060,Environmental Information Processing,Signaling molecules and interaction,map04060,Cytokine-cytokine receptor interaction
+map00400,Metabolism,Amino acid metabolism,map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+map04530,Cellular Processes,Cellular community - eukaryotes,map04530,Tight junction
+map00365,Metabolism,Xenobiotics biodegradation and metabolism,map00365,Furfural degradation
+map03410,Genetic Information Processing,Replication and repair,map03410,Base excision repair
+map05226,Human Diseases,Cancer: specific types,map05226,Gastric cancer
+map00140,Metabolism,Lipid metabolism,map00140,Steroid hormone biosynthesis
+map04330,Environmental Information Processing,Signal transduction,map04330,Notch signaling pathway
+map00760,Metabolism,Metabolism of cofactors and vitamins,map00760,Nicotinate and nicotinamide metabolism
+map00340,Metabolism,Amino acid metabolism,map00340,Histidine metabolism
+map01040,Metabolism,Lipid metabolism,map01040,Biosynthesis of unsaturated fatty acids
+map04929,Organismal Systems,Endocrine system,map04929,GnRH secretion
+map05135,Human Diseases,Infectious disease: bacterial,map05135,Yersinia infection
+map04144,Cellular Processes,Transport and catabolism,map04144,Endocytosis
+map00232,Metabolism,Biosynthesis of other secondary metabolites,map00232,Caffeine metabolism
+map04934,Human Diseases,Endocrine and metabolic disease,map04934,Cushing syndrome
+map05221,Human Diseases,Cancer: specific types,map05221,Acute myeloid leukemia
+map05200,Human Diseases,Cancer: overview,map05200,Pathways in cancer
+map03040,Genetic Information Processing,Transcription,map03040,Spliceosome
+map05145,Human Diseases,Infectious disease: parasitic,map05145,Toxoplasmosis
+map00450,Metabolism,Metabolism of other amino acids,map00450,Selenocompound metabolism
+map04514,Environmental Information Processing,Signaling molecules and interaction,map04514,Cell adhesion molecules
+map05165,Human Diseases,Infectious disease: viral,map05165,Human papillomavirus infection
+map04620,Organismal Systems,Immune system,map04620,Toll-like receptor signaling pathway
+map04110,Cellular Processes,Cell growth and death,map04110,Cell cycle
+map03320,Organismal Systems,Endocrine system,map03320,PPAR signaling pathway
+map00590,Metabolism,Lipid metabolism,map00590,Arachidonic acid metabolism
+map00643,Metabolism,Xenobiotics biodegradation and metabolism,map00643,Styrene degradation
+map04714,Organismal Systems,Environmental adaptation,map04714,Thermogenesis
+map05152,Human Diseases,Infectious disease: bacterial,map05152,Tuberculosis
+map00240,Metabolism,Nucleotide metabolism,map00240,Pyrimidine metabolism
+map00740,Metabolism,Metabolism of cofactors and vitamins,map00740,Riboflavin metabolism
+map00073,Metabolism,Lipid metabolism,map00073,"Cutin, suberine and wax biosynthesis"
+map00603,Metabolism,Glycan biosynthesis and metabolism,map00603,Glycosphingolipid biosynthesis - globo and isoglobo series
+map00472,Metabolism,Metabolism of other amino acids,map00472,D-Arginine and D-ornithine metabolism
+map00640,Metabolism,Carbohydrate metabolism,map00640,Propanoate metabolism
+map04978,Organismal Systems,Digestive system,map04978,Mineral absorption
+map00790,Metabolism,Metabolism of cofactors and vitamins,map00790,Folate biosynthesis
+map00941,Metabolism,Biosynthesis of other secondary metabolites,map00941,Flavonoid biosynthesis
+map04611,Organismal Systems,Immune system,map04611,Platelet activation
+map05146,Human Diseases,Infectious disease: parasitic,map05146,Amoebiasis
+map04744,Organismal Systems,Sensory system,map04744,Phototransduction
+map05012,Human Diseases,Neurodegenerative disease,map05012,Parkinson disease
+map01110,Metabolism,Global and overview maps,map01110,Biosynthesis of secondary metabolites
+map00250,Metabolism,Amino acid metabolism,map00250,"Alanine, aspartate and glutamate metabolism"
+map04011,Environmental Information Processing,Signal transduction,map04011,MAPK signaling pathway - yeast
+map05163,Human Diseases,Infectious disease: viral,map05163,Human cytomegalovirus infection
+map04111,Cellular Processes,Cell growth and death,map04111,Cell cycle - yeast
+map05222,Human Diseases,Cancer: specific types,map05222,Small cell lung cancer
+map05218,Human Diseases,Cancer: specific types,map05218,Melanoma
+map00770,Metabolism,Metabolism of cofactors and vitamins,map00770,Pantothenate and CoA biosynthesis
+map04622,Organismal Systems,Immune system,map04622,RIG-I-like receptor signaling pathway
+map04724,Organismal Systems,Nervous system,map04724,Glutamatergic synapse
+map01100,Metabolism,Global and overview maps,map01100,Metabolic pathways
+map05020,Human Diseases,Neurodegenerative disease,map05020,Prion disease
+map04726,Organismal Systems,Nervous system,map04726,Serotonergic synapse
+map00785,Metabolism,Metabolism of cofactors and vitamins,map00785,Lipoic acid metabolism
+map04141,Genetic Information Processing,"Folding, sorting and degradation",map04141,Protein processing in endoplasmic reticulum
+map01522,Human Diseases,Drug resistance: antineoplastic,map01522,Endocrine resistance
+map04071,Environmental Information Processing,Signal transduction,map04071,Sphingolipid signaling pathway
+map00360,Metabolism,Amino acid metabolism,map00360,Phenylalanine metabolism
+map04320,Organismal Systems,Development and regeneration,map04320,Dorso-ventral axis formation
+map00364,Metabolism,Xenobiotics biodegradation and metabolism,map00364,Fluorobenzoate degradation
+map03460,Genetic Information Processing,Replication and repair,map03460,Fanconi anemia pathway
+map04139,Cellular Processes,Transport and catabolism,map04139,Mitophagy - yeast
+map00380,Metabolism,Amino acid metabolism,map00380,Tryptophan metabolism
+map04666,Organismal Systems,Immune system,map04666,Fc gamma R-mediated phagocytosis
+map01230,Metabolism,Global and overview maps,map01230,Biosynthesis of amino acids
+map00330,Metabolism,Amino acid metabolism,map00330,Arginine and proline metabolism
+map00791,Metabolism,Xenobiotics biodegradation and metabolism,map00791,Atrazine degradation
+map00660,Metabolism,Carbohydrate metabolism,map00660,C5-Branched dibasic acid metabolism
+map05310,Human Diseases,Immune disease,map05310,Asthma
+map04013,Environmental Information Processing,Signal transduction,map04013,MAPK signaling pathway - fly
+map05143,Human Diseases,Infectious disease: parasitic,map05143,African trypanosomiasis
+map02040,Cellular Processes,Cell motility,map02040,Flagellar assembly
+map00053,Metabolism,Carbohydrate metabolism,map00053,Ascorbate and aldarate metabolism
+map00984,Metabolism,Xenobiotics biodegradation and metabolism,map00984,Steroid degradation
+map00920,Metabolism,Energy metabolism,map00920,Sulfur metabolism
+map00332,Metabolism,Biosynthesis of other secondary metabolites,map00332,Carbapenem biosynthesis
+map04022,Environmental Information Processing,Signal transduction,map04022,cGMP-PKG signaling pathway
+map00072,Metabolism,Lipid metabolism,map00072,Synthesis and degradation of ketone bodies
+map00512,Metabolism,Glycan biosynthesis and metabolism,map00512,Mucin type O-glycan biosynthesis
+map00945,Metabolism,Biosynthesis of other secondary metabolites,map00945,"Stilbenoid, diarylheptanoid and gingerol biosynthesis"
+map04520,Cellular Processes,Cellular community - eukaryotes,map04520,Adherens junction
+map05224,Human Diseases,Cancer: specific types,map05224,Breast cancer
+map04659,Organismal Systems,Immune system,map04659,Th17 cell differentiation
+map04136,Cellular Processes,Transport and catabolism,map04136,Autophagy - other
+map00403,Metabolism,Biosynthesis of other secondary metabolites,map00403,Indole diterpene alkaloid biosynthesis
+map00520,Metabolism,Carbohydrate metabolism,map00520,Amino sugar and nucleotide sugar metabolism
+map05202,Human Diseases,Cancer: overview,map05202,Transcriptional misregulation in cancer
+map04142,Cellular Processes,Transport and catabolism,map04142,Lysosome
+map00220,Metabolism,Amino acid metabolism,map00220,Arginine biosynthesis
+map05213,Human Diseases,Cancer: specific types,map05213,Endometrial cancer
+map05120,Human Diseases,Infectious disease: bacterial,map05120,Epithelial cell signaling in Helicobacter pylori infection
+map04624,Organismal Systems,Immune system,map04624,Toll and Imd signaling pathway
+map00062,Metabolism,Lipid metabolism,map00062,Fatty acid elongation
+map00623,Metabolism,Xenobiotics biodegradation and metabolism,map00623,Toluene degradation
+map03060,Genetic Information Processing,"Folding, sorting and degradation",map03060,Protein export
+map04020,Environmental Information Processing,Signal transduction,map04020,Calcium signaling pathway
+map05414,Human Diseases,Cardiovascular disease,map05414,Dilated cardiomyopathy
+map04973,Organismal Systems,Digestive system,map04973,Carbohydrate digestion and absorption
+map04913,Organismal Systems,Endocrine system,map04913,Ovarian steroidogenesis
+map04727,Organismal Systems,Nervous system,map04727,GABAergic synapse
+map04658,Organismal Systems,Immune system,map04658,Th1 and Th2 cell differentiation
+map00195,Metabolism,Energy metabolism,map00195,Photosynthesis
+map04932,Human Diseases,Endocrine and metabolic disease,map04932,Non-alcoholic fatty liver disease
+map00900,Metabolism,Metabolism of terpenoids and polyketides,map00900,Terpenoid backbone biosynthesis
+map05223,Human Diseases,Cancer: specific types,map05223,Non-small cell lung cancer
+map05167,Human Diseases,Infectious disease: viral,map05167,Kaposi sarcoma-associated herpesvirus infection
+map05225,Human Diseases,Cancer: specific types,map05225,Hepatocellular carcinoma
+map00983,Metabolism,Xenobiotics biodegradation and metabolism,map00983,Drug metabolism - other enzymes
+map02010,Environmental Information Processing,Membrane transport,map02010,ABC transporters
+map01051,Metabolism,Metabolism of terpenoids and polyketides,map01051,Biosynthesis of ansamycins
+map03050,Genetic Information Processing,"Folding, sorting and degradation",map03050,Proteasome
+map00903,Metabolism,Metabolism of terpenoids and polyketides,map00903,Limonene and pinene degradation
+map00965,Metabolism,Biosynthesis of other secondary metabolites,map00965,Betalain biosynthesis
+map01120,Metabolism,Global and overview maps,map01120,Microbial metabolism in diverse environments
+map00950,Metabolism,Biosynthesis of other secondary metabolites,map00950,Isoquinoline alkaloid biosynthesis
+map04150,Environmental Information Processing,Signal transduction,map04150,mTOR signaling pathway
+map04010,Environmental Information Processing,Signal transduction,map04010,MAPK signaling pathway
+map05418,Human Diseases,Cardiovascular disease,map05418,Fluid shear stress and atherosclerosis
+map05211,Human Diseases,Cancer: specific types,map05211,Renal cell carcinoma
+map00040,Metabolism,Carbohydrate metabolism,map00040,Pentose and glucuronate interconversions
+map04512,Environmental Information Processing,Signaling molecules and interaction,map04512,ECM-receptor interaction
+map00430,Metabolism,Metabolism of other amino acids,map00430,Taurine and hypotaurine metabolism
+map04711,Organismal Systems,Environmental adaptation,map04711,Circadian rhythm - fly
+map04924,Organismal Systems,Endocrine system,map04924,Renin secretion
+map04140,Cellular Processes,Transport and catabolism,map04140,Autophagy - animal
+map00720,Metabolism,Energy metabolism,map00720,Carbon fixation pathways in prokaryotes
